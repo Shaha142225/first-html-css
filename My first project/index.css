@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.btn{
+    background-image:url("/Project/IMG_20220727_185646_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
